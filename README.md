@@ -3,8 +3,12 @@ This is simple music player I created for the unit Introduction to Programming f
 
 What I have learnt from this project
 * Basic Programming concepts such as
-  - structural programming concepts such as sequence. selection, iteration
-  - functions/prcedures
+  - structural programming concepts such as sequence, selection, iteration
+  - functions/procedures
+  - data types
+  - I/O handling
+  - File handling
+  - basic debugging practises
 * using external libraries
 * programming lingo
   
